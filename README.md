@@ -1,6 +1,8 @@
-![ToMe](tome.png)
+<p align="center">
+<img src="tome.png">
+</p>
 
-## #MeToo
+# #ToMe
 #MeeToo kampanjen har på ett smärtsamt sätt visat att vi har misslyckats som samhälle. Misslyckats med att skydda kvinnor från övergrepp, nedsättande behandling och kränkande ord. Misslyckats med att se mönstren som genomsyrar våra arbetsplatser, våra skolor och vårt samhälle i stort. Vi har misslyckats med att lära våra barn om hur man är mot varandra. Men det kan vi ändra på.
 
 ## Barnen finns kvar
