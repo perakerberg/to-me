@@ -19,10 +19,10 @@ Elevhälsan på skolan har också #ToMe-appen och de kan se alla inlägg som har
 Varje fredag efter lunch har Elins klass en #ToMe-timme. Det är en timme som infördes som resultat av #MeToo kampanjen, när samhället insåg att våra värderingar var ur spel. Det sågs av många som en slags PISA-undersökning i värderingar, där vi just kollektivt fått ett bottenbetyg.
 Därför infördes en extra timma i veckan, nationellt där elever och lärare pratar om värderingar, och om hur vi är mot varandra. På just Elins skola kallas den för #ToMe-timmen, eftersom alla vet att #ToMe-appen används som underlag de allra flesta gångerna.
 
-Inför dagens lektion har klassföreståndaren hört från elevhälsan om den nya trenden kring "stönljud" och att det är upprepade tillfällen som detta har beskrivits i inlägg på #ToMe. Han är väl förberedd och har via länkar i #ToMe, hittat klipp där "Therese Lindgren" och "JLC" (exempel på förebilder för denna ålderskategori) läser upp inlägg från andra barn på området ofredande. Inlägg i #ToMe taggas av de som läser dem och gör det därför enkelt att hitta relaterat material. Bland länkarna fanns dessutom ett klipp där en känd profil och förebild pratar om sexuellt ofredande, hur kränkande det är och hur man mår som utsatt. Efter att klippen visas pratar klassen om den och klassen får ta ställning till flera påståenden och hurvida det är ett okej beteende eller ej. Ett av påståendena är "Är det okej att spela upp stönljud?"
+Inför dagens lektion har klassföreståndaren hört från elevhälsan om den nya trenden kring "stönljud" och att det är upprepade tillfällen som detta har beskrivits i inlägg på #ToMe. Han är väl förberedd och har via länkar i #ToMe, hittat klipp där kända förebilder för eleverna läser upp inlägg från andra barn på området ofredande. Inlägg i #ToMe taggas av de som läser dem och gör det därför enkelt att hitta relaterat material. Bland länkarna fanns dessutom ett klipp där en känd profil och förebild pratar om sexuellt ofredande, hur kränkande det är och hur man mår som utsatt. Efter att klippen visas pratar klassen om den och klassen får ta ställning till flera påståenden och hurvida det är ett okej beteende eller ej. Ett av påståendena är "Är det okej att spela upp stönljud?"
 
 ## #MeToo blir #ToMe
-#MeToo fokuserade på de hemska saker som redan har hänt, på att få dem  i ljuset. #ToMe handlar om att börja om från början. Om att redan i låg ålder fånga upp barns värderingar och problem med beteende som de kan ha. I riktlinjer för Skolhälsovården finns det klara direktiv från Socialstyrelsen om att man skall arbeta förebyggande. Tyvärr finns inte mycket tid till ett sådant arbete, men med bättre verktyg och aktiva elever som själva får möjlighet att beskriva sin vardag och de problem som finns, så kan möjligheten bli större.
+#MeToo fokuserar på de hemska saker som redan har hänt, på att få dem  i ljuset. #ToMe handlar om att börja om från början. Om att redan i låg ålder fånga upp barns värderingar och problem med beteende som de kan ha. I riktlinjer för Skolhälsovården finns det klara direktiv från Socialstyrelsen om att man skall arbeta förebyggande. Tyvärr finns inte mycket tid till ett sådant arbete, men med bättre verktyg och aktiva elever som själva får möjlighet att beskriva sin vardag och de problem som finns, så kan möjligheten bli större.
 
 Behovet ändras från Åk 1 till Åk 9. I lågstadiet har problemen en mindre tydlig sexuell karaktär, det kan handla om enkla uttalanden som "du kastar som en tjej". Längre upp i åldrarna, som i Elins exempel, har dåligt beteende fått fäste och det är då man behöver ta ett tydligt grepp kring ofredande, kränkning och andra övergrepp.
 
@@ -33,3 +33,11 @@ Behovet ändras från Åk 1 till Åk 9. I lågstadiet har problemen en mindre ty
 - Enkelt gränssnitt för Elevhälsan
 - Samarbete med en skola som pilotprojekt
 - Få kända förebilder att i enkel form läsa upp det som skrivits av barn, tänk "Bullen", men inte Timell :)
+- Enkäter, där barn får svara på frågor kring stämning som enkelt kan följas upp
+- Många skolor har EHT (Elevhälsoteam) möten mellan skolhälsovård, kurator, specialpedagoger och rektor. En stående punkt skulle kunna vara att ta upp aktuella ämnen från appen.
+
+## Frågor
+- Hur lockar man till användning?
+- Hur får man föräldrar involverade?
+- Hur förhindrar man spam och oseriösa inlägg?
+- Hur säkerställer man trygghet i appen?
