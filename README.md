@@ -32,21 +32,6 @@ Behovet ändras från Åk 1 till Åk 9. I lågstadiet har problemen en mindre ty
 
 #ToMe ska få igång diskussionen i klassrummen, på skolgården och förhoppningsvis vid middagsbordet efter skolan. För att tankarna finns i barnens hvuuden kan vi vara säkra på, det handlar bara om att fånga dem i tid, ge dem ljus och hjälpa dem på vägen.
 
-## Vad #MeTo är
-
-<div style="display:flex;flex-direction:row;align-items:center">
-<img src="app.png" style="height:50px;margin-right:55px">
-<h2>En app för barn
-</div>
-<div style="display:flex;flex-direction:row;align-items:center">
-<img src="web.png" style="height:50px;margin-right:55px">
-<h2>En websajt för vuxna
-</div>
-<div style="display:flex;flex-direction:row;align-items:center">
-<img src="discussion.png" style="height:50px;margin-right:20px">
-<h2>Ett verktyg för diskussion och lärande
-</div>
-
 
 ## Utvecklingspotential
 - #ToMe-app på alla plattformar
