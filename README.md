@@ -6,7 +6,7 @@
 #MeeToo kampanjen har på ett smärtsamt sätt visat att vi har misslyckats som samhälle. Misslyckats med att skydda kvinnor från övergrepp, nedsättande behandling och kränkande ord. Misslyckats med att se mönstren som genomsyrar våra arbetsplatser, våra skolor och vårt samhälle i stort. Vi har misslyckats med att lära våra barn om hur man är mot varandra. Men det kan vi ändra på.
 
 ## Barnen finns kvar
-De män, låt oss inte förespegla annat än att det är mestadels män, som idag beter sig illa har ett beteende som är svårt att bryta. Att häva ur sig nedsättande kommentarer bakom kollegans rygg, eller till sina polare i oklädningsrummet har blivit det normala. Men även dessa individer får barn. Och barnen är **inte** förlorade.
+De vuxna, mestadels män, som idag beter sig illa har ett beteende som är svårt att bryta. Att häva ur sig nedsättande kommentarer bakom kollegans rygg, eller till sina polare i omklädningsrummet har blivit det normala. Men även dessa individer får barn. Och varken deras eller andra barn är förlorade.
 
 Tänk om vi kunde ge alla barn ett alternativt perspektiv, ett nytt sätt att se på saker, ett nytt sätt att tänka! Här har skolan en unik roll, för oavsett var du bor eller vilka värderingar du får med dig med frukostflingorna så går du i skolan. I nio år har du inget val, du måste vara i skolan. Det är under dessa nio år som vi som samhälle har chansen att forma barnen och att skapa förutsättningar för en bättre framtid med ett varmare, mänskligare klimat.
 
