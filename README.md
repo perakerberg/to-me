@@ -46,3 +46,4 @@ Behovet ändras från Åk 1 till Åk 9. I lågstadiet har problemen en mindre ty
 - Hur får man föräldrar involverade?
 - Hur förhindrar man spam och oseriösa inlägg?
 - Hur säkerställer man trygghet i appen?
+- Hur ser man till att det inte är pinsamt att ha appen installerad? Undvika "haha, är du kränkt eller?!"
