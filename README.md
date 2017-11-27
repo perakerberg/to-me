@@ -30,7 +30,7 @@ Inför dagens lektion har klassföreståndaren hört från elevhälsan om den ny
 
 Behovet ändras från Åk 1 till Åk 9. I lågstadiet har problemen en mindre tydlig sexuell karaktär, det kan handla om enkla uttalanden som "du kastar som en tjej". Längre upp i åldrarna, som i Elins exempel, har dåligt beteende fått fäste och det är då man behöver ta ett tydligt grepp kring ofredande, kränkning och andra övergrepp.
 
-#ToMe ska få igång diskussionen i klassrummen, på skolgården och förhoppningsvis vid middagsbordet efter skolan. För att tankarna finns i barnens hvuuden kan vi vara säkra på, det handlar bara om att fånga dem i tid, ge dem ljus och hjälpa dem på vägen.
+#ToMe ska få igång diskussionen i klassrummen, på skolgården och förhoppningsvis vid middagsbordet efter skolan. För att tankarna finns i barnens huvuden kan vi vara säkra på, det handlar bara om att fånga dem i tid, ge dem ljus och hjälpa dem på vägen.
 
 
 ## Utvecklingspotential
