@@ -48,3 +48,4 @@ Behovet ändras från Åk 1 till Åk 9. I lågstadiet har problemen en mindre ty
 - Hur säkerställer man trygghet i appen?
 - Hur ser man till att det inte är pinsamt att ha appen installerad? Undvika "haha, är du kränkt eller?!"
 - Hur undviker man att någon, i skydd av sin anonymitet, hänger ut någon annan?
+- Hur undviker man att appen blir en ersättning till att säga till en vuxen, på riktigt?
