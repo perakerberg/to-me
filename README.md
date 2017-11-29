@@ -50,6 +50,8 @@ Behovet ändras från Åk 1 till Åk 9. I lågstadiet har problemen en mindre ty
 - Hur undviker man att någon, i skydd av sin anonymitet, hänger ut någon annan?
 - Hur undviker man att appen blir en ersättning till att säga till en vuxen, på riktigt?
 - Man kanske ska utse en elev och en vuxen som blir årets representanter och som kallar till möte när det behövs...
+- Kan en app bli en klassfråga? Alla har inte mobiler. Dessutom skaffar många mobiler sent och appens målgrupp är ju ganska ung. Andra format? Paddor i skolan? Alla skolor har inte råd/möjlighet till paddor. Analog pappersvariant?
+
 
 ## Mockups / UI Idéer
 ### UI för att rapportera känsla + text
