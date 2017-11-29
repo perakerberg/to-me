@@ -49,3 +49,11 @@ Behovet ändras från Åk 1 till Åk 9. I lågstadiet har problemen en mindre ty
 - Hur ser man till att det inte är pinsamt att ha appen installerad? Undvika "haha, är du kränkt eller?!"
 - Hur undviker man att någon, i skydd av sin anonymitet, hänger ut någon annan?
 - Hur undviker man att appen blir en ersättning till att säga till en vuxen, på riktigt?
+- Man kanske ska utse en elev och en vuxen som blir årets representanter och som kallar till möte när det behövs...
+
+## Mockups / UI Idéer
+### UI för att rapportera känsla + text
+![mockup](app-mockup-feeling.png)
+
+För att det inte ska kännas pinsamt eller utpekande att ha appen kan en möjlighet vara att också kunna rapportera bra saker, t.ex vad man är glad över. Att man gör det enkelt att välja en känsla och sedan sätta ord på den. Därigenom kan man som skola få en slags "barometer" på vad som är på gång. Det underliggande syftet är ändå att fånga upp det som känns jobbigt, ledsamt eller dåligt. Men man måste nog dölja det syftet i en enklare, gästvänligare och mindre utpekande kostym.
+
