@@ -66,14 +66,14 @@ App som ger barn möjlighet att rapporterar incidenter i skolan eller på nätet
 De kan bifoga en screenshot av t.ex en chat. Man kan välja att vara anonym.
 App för barn, admin-gränssnitt för personal.
 
-(https://www.expressen.se/omtalat/vardagshjaltar/tobias-vill-hjalpa-unga-och-utsatta--har-skapat-antimobbningsappen-speak-up-1/)
+<https://www.expressen.se/omtalat/vardagshjaltar/tobias-vill-hjalpa-unga-och-utsatta--har-skapat-antimobbningsappen-speak-up-1/>
 
-(https://www.gospeakup.com/se/)
+<https://www.gospeakup.com/se/>
 
 ### #MeToo i skolan
-(https://www.expressen.se/nyheter/vi-maste-prata-om-metoo-i-skolan/)
+<https://www.expressen.se/nyheter/vi-maste-prata-om-metoo-i-skolan/>
 
-(http://www.dagensarena.se/opinion/genusdebattorer-sa-kan-vara-barn-slippa-anvanda-metoo/)
+<http://www.dagensarena.se/opinion/genusdebattorer-sa-kan-vara-barn-slippa-anvanda-metoo/>
 
 [**Stopp, min kropp!** En handbok för vuxna i hur man pratar med barn om kroppen, gränser och sexuella övergrepp](https://www.raddabarnen.se/vad-vi-gor/barn-utsatta-for-sexuella-overgrepp/stopp-min-kropp/)
 
