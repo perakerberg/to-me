@@ -59,3 +59,25 @@ Behovet ändras från Åk 1 till Åk 9. I lågstadiet har problemen en mindre ty
 
 För att det inte ska kännas pinsamt eller utpekande att ha appen kan en möjlighet vara att också kunna rapportera bra saker, t.ex vad man är glad över. Att man gör det enkelt att välja en känsla och sedan sätta ord på den. Därigenom kan man som skola få en slags "barometer" på vad som är på gång. Det underliggande syftet är ändå att fånga upp det som känns jobbigt, ledsamt eller dåligt. Men man måste nog dölja det syftet i en enklare, gästvänligare och mindre utpekande kostym.
 
+## Länkar
+
+### SpeakUp - liknande app
+App som ger barn möjlighet att rapporterar incidenter i skolan eller på nätet.
+De kan bifoga en screenshot av t.ex en chat. Man kan välja att vara anonym.
+App för barn, admin-gränssnitt för personal.
+
+https://www.expressen.se/omtalat/vardagshjaltar/tobias-vill-hjalpa-unga-och-utsatta--har-skapat-antimobbningsappen-speak-up-1/
+
+https://www.gospeakup.com/se/
+
+### #MeToo i skolan
+https://www.expressen.se/nyheter/vi-maste-prata-om-metoo-i-skolan/
+
+http://www.dagensarena.se/opinion/genusdebattorer-sa-kan-vara-barn-slippa-anvanda-metoo/
+
+[**Stopp, min kropp!** En handbok för vuxna i hur man pratar med barn om kroppen, gränser och sexuella övergrepp](https://www.raddabarnen.se/vad-vi-gor/barn-utsatta-for-sexuella-overgrepp/stopp-min-kropp/)
+
+
+
+
+
